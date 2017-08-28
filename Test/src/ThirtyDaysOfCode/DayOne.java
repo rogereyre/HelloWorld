@@ -1,8 +1,10 @@
 package ThirtyDaysOfCode;
 
-public class void DayOne (){
-
-       
-}
+public class DayOne {
+	
+	public void DayOne() {
+		return;
+	}
+	
 	
 }
